@@ -2,6 +2,6 @@
  Parse_for_all_containers - парсер для контейнеров  (title,strong,h1,h2). 
  text_Parser - парсер для всего текста и запросов. USE_+_for_containers - получение рангов с помощью USE для title и strong.
  Сначала выполняем 2 парсера(получаем  пиклы), затем выполняем либо bm25, либо USE.
- presentation - мини презентация.
+ pres (1).pdf - мини презентация.
  Ссылка на kaggle соревнование с результатами и данными - https://www.kaggle.com/c/text-relevance-competition-ir-1-ts-fall-2020/overview/evaluation 
  ник на соревновании - Борис Груздев.
